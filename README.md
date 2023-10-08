@@ -1,4 +1,4 @@
-"According  to an old joke, debugging is a complicated mystery game in which you  are simultaneously the murderer, the detective, and – the most painful  part of the intrigue – the victim." 😂
+"According  to an old joke, debugging is a complicated mystery game in which you  are simultaneously the murderer, the detective, and – the most painful  part of the intrigue – the victim."
 
 <!--
 **cdmccauley/cdmccauley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
